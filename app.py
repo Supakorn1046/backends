@@ -31,7 +31,8 @@ def add_product():
     if products:
         print("it empty!!!!")
     for _ in products :
-        count = _   
+        count = _
+         a
         korn = korn+1
 
     ttt = 0
